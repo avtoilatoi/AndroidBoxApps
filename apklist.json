@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "order": 1,
+      "name": "Youtube",
+      "url": ""
+    },
+    {
+      "order": 2,
+      "name": "Navitel Helper",
+      "url": ""
+    }
+  ]
+}
