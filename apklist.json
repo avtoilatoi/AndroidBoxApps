@@ -1,24 +1,28 @@
 {
-  "version": 1,
+  "version": 2,
   "apps": [
     {
       "order": 1,
       "name": "Navitel",
+      "packageName": "com.navitel",
       "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/Navitel_helper_final_signed.apk"
     },
     {
       "order": 2,
       "name": "Youtube",
-      "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/Youtube_no_swipe_spinner_signed.apk"
+      "packageName": "com.github.slashmax.aabrowser",
+      "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/Youtube_no_swipe_spinner_signed.apkE"
     },
-     {
+    {
       "order": 3,
-      "name": "Navitel_helper",
+      "name": "Navitel Helper",
+      "packageName": "com.navitel.piphelper",
       "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/Navitel_PiP_Helper_COMPLETE_signed.apk"
     },
-     {
+       {
       "order": 4,
       "name": "Lunar",
+      "packageName": "com.aistudio.lichamnoi.lunar",
       "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/lunar.apk"
     }
   ]
