@@ -3,24 +3,30 @@
   "apps": [
     {
       "order": 1,
+      "name": "Leco",
+      "packageName": "com.lecoauto",
+      "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/leco.apk"
+    },
+    {
+      "order": 2,
       "name": "Navitel",
       "packageName": "com.navitel",
       "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/Navitel_helper_final_signed.apk"
     },
     {
-      "order": 2,
+      "order": 3,
       "name": "Youtube",
       "packageName": "com.github.slashmax.aabrowser",
       "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/Youtube_no_swipe_spinner_signed.apkE"
     },
     {
-      "order": 3,
+      "order": 4,
       "name": "Navitel Helper",
       "packageName": "com.navitel.piphelper",
       "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/Navitel_PiP_Helper_COMPLETE_signed.apk"
     },
        {
-      "order": 4,
+      "order": 5,
       "name": "Lunar",
       "packageName": "com.aistudio.lichamnoi.lunar",
       "url": "https://github.com/avtoilatoi/AndroidBoxApps/releases/download/V1.0/lunar.apk"
